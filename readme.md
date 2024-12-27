@@ -1,1 +1,1 @@
-I have created a website for music management known as HellMusic
+It is a website for music management known as HellMusic
